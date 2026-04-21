@@ -1,0 +1,6 @@
+[2026-04-14 11:58:07] To: shyrielyatarrr@gmail.com | Subject: Test Email - Logging System 2026-04-14 11:58:06 | Status: SUCCESS | Sent successfully
+[2026-04-14 12:00:15] To: louiemallari143@gmail.com | Subject: Appointment Request - Status Update | Status: SUCCESS | Sent successfully
+[2026-04-14 12:01:01] To: louiemallari143@gmail.com | Subject: Appointment Confirmed - TOOTH IMPRESSION | Status: SUCCESS | Sent successfully
+[2026-04-14 12:04:07] To: shyrielyatarrr@gmail.com | Subject: Appointment Confirmed - TOOTH IMPRESSION | Status: SUCCESS | Sent successfully
+[2026-04-21 07:00:35] To: shyrielyatarrr@gmail.com | Subject: Appointment Confirmed - TOOTH IMPRESSION | Status: SUCCESS | Sent successfully
+[2026-04-21 07:04:39] To: louiemallari143@gmail.com | Subject: Appointment Confirmed - TOOTH IMPRESSION | Status: SUCCESS | Sent successfully
